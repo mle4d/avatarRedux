@@ -1,15 +1,15 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-function Character({ }) {
+function Characters({ characters }) {
   return (
     <>
     </>
   );
 }
 
-Character.propTypes = {
+Characters.propTypes = {
 
 };
 
-export default Character;
+export default Characters;
